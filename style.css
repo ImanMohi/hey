@@ -1,0 +1,17 @@
+body {
+    margin: 0;
+}
+
+#particles-js{
+    background: #ffc0cb;
+    height: 1 rem;
+}
+#message{
+    background: #e04f68;
+    opacity: 0.9;
+    padding: 1em;
+    position: absolute;
+    top: 200px;
+    left: 500px;
+    border-radius: 5px;
+}
